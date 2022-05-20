@@ -4,7 +4,7 @@
 ## Introduction
 This was a little project I worked on to learn about the fundamentals of Networking. You can
     examine the source code of this project to understand how to get started with a multi-threaded
-    HTTP server in Java that server HTML content and .png files.
+    HTTP server in Java that serves HTML content and .png files.
 
 ## How to compile and run the program
 1. Open your CLI of choice ideally with the JAVA_HOME path configured.
